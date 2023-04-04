@@ -1,4 +1,4 @@
-# mealpal-server
+# Back-end Server & Database (mealpal-server)
 ### 1. Database config
 - find the file : mealpal-server/src/app.module.ts
 - and then change database config 
@@ -35,7 +35,7 @@ becasue there is not any restaurant records initially in the newly created table
         "create_time": "2023-04-03"
     }
 ```
-# mealpal-front 
+# Front-end UI (mealpal-front)
 #### 1. Dependencies
 - cd to mealpal-front
 - yarn or npm install
